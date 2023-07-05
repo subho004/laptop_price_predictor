@@ -81,6 +81,10 @@ These models are trained on the provided dataset to learn the relationship betwe
 
 The accuracy and performance of the prediction models depend on the quality of the dataset and the specific regression model used. Therefore, the results may vary based on these factors. However, the project aims to provide a reasonably accurate estimation of laptop prices.
 
+## Images
+
+![Screenshot of Interface](https://github.com/subho004/laptop_price_predictor/blob/main/Laptop1.png)
+
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the https://github.com/subho004/laptop_price_predictor
