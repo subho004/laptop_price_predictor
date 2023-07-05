@@ -83,7 +83,11 @@ The accuracy and performance of the prediction models depend on the quality of t
 
 ## Images
 
-![Screenshot of Interface](https://github.com/subho004/laptop_price_predictor/blob/main/Laptop1.png)
+![Laptop1](https://github.com/subho004/laptop_price_predictor/assets/91646273/f3124db0-07a4-4d68-a859-557cd20f614f)
+![Laptop2](https://github.com/subho004/laptop_price_predictor/assets/91646273/f1e904d3-4350-4723-a843-171bc8eebb8c)
+![Laptop3](https://github.com/subho004/laptop_price_predictor/assets/91646273/9e359e46-860d-441e-a9b6-087f8fe822ff)
+
+
 
 ## Contributing
 
